@@ -1,0 +1,5 @@
+com\bkw\rulesengine\CompareObjects.class
+com\bkw\rulesengine\tests\RulesTest.class
+com\bkw\rulesengine\Math.class
+com\bkw\rulesengine\misc\RandTest.class
+com\bkw\rulesengine\misc\FilterFile.class
